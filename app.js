@@ -1,4 +1,3 @@
-// TIC-TAC-TOE-GAME
 
 let boxes = document.querySelectorAll(".box");
 let resetBtn = document.querySelector("#reset-button");
